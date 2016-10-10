@@ -1,6 +1,6 @@
 {
-  "name": "Popojargo.GitHub.io",
+  "name": "popojargo",
   "tagline": "",
-  "body": "### Authors and Contributors\r\nProjects developed by Alexis Côté(@popojargo).\r\n\r\n",
+  "body": "#Projects\r\n\r\n- [PouchDB-Dump-Select](http://blabla)  gives you the ability to easily query data to dump.\r\n\r\n\r\n### Authors and Contributors\r\nProjects developed by Alexis Côté(@popojargo).\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
